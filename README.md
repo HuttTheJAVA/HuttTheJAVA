@@ -7,8 +7,8 @@
 #### I use it often.
 <div style="display:flex;gap:30px;flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo={로고이름}&logoColor=white"/>
-  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo={로고이름}&logoColor=white"/>
-  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo={로고이름}&logoColor=white"/>
+  <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=flat-square&logo=spring&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
 </div>
