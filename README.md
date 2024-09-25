@@ -1,15 +1,20 @@
 <h1 align="center">
   👋 Hi, Nice to meet you.
 </h1><br>
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HuttTheJAVA&show_icons=true&theme=dark" style="display:inline-block; height:150px;">
-  <a href="https://solved.ac/chlghksdyd24">
-     <img src="http://mazassumnida.wtf/api/generate_badge?boj=chlghksdyd24" alt="Solved.ac Profile" style="display:inline-block; margin-right: 20px; height:150px;">
-  </a><br></br><br></br>
 
-  <h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
+<div align="center" style="display: flex; justify-content: center; gap: 20px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=HuttTheJAVA&show_icons=true&theme=dark" style="height:150px;">
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuttTheJAVA&layout=compact" alt="Top Langs" style="height:150px;">
+</div>
 
-<div align="center" style="witdh:100%"> 
+<br></br>
+
+<h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
+
+<div align="center" style="width:100%"> 
   <table>
     <tr>
       <td valign="center" width="100px"><b>Backend<b></td>
@@ -29,14 +34,23 @@
       </td>
     </tr>
   </table>
-</div><br></br><br></br>
+</div>
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HuttTheJAVA&layout=compact)<br>
-</div><br></br>
+<br></br>
+
+<h3 align="center"><img src="code.gif" height="20"/> Algorithm</h3>
+<div align="center">
+  <a href="https://solved.ac/chlghksdyd24">
+     <img src="http://mazassumnida.wtf/api/generate_badge?boj=chlghksdyd24" alt="Solved.ac Profile" style="display:inline-block; margin-right: 20px; height:150px;">
+  </a>
+</div>
+
+<br></br>
 
 <h2 align="center">
   Thanks for visiting my profile.
 </h2>
+
 <div align="center">
   <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHuttTheJAVA&count_bg=%236AC83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
