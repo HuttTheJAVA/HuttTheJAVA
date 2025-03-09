@@ -2,15 +2,6 @@
   👋 Hi, Nice to meet you.
 </h1><br>
 
-<div align="center">
-  <a href="https://www.rallit.com/resumes/187840@chlghksdyd31/%EC%B5%9C%ED%99%98%EC%9A%A9" target="_blank" style="margin-right: 50px;">
-    <img src="https://img.shields.io/badge/Resume-%EC%9D%B4%EB%A0%A5%EC%84%9C%20%EA%B5%AC%EA%B2%BD%ED%95%98%EA%B8%B0-blue?style=for-the-badge" alt="이력서 바로가기"/>
-  </a>
-  <a href="https://shell-rise-8d0.notion.site/1145facb61e780128fdcf5de2a025eef" target="_blank" style="margin-left:10px;">
-    <img src="https://img.shields.io/badge/Portfolio-%ED%8F%AC%ED%8A%B8%ED%8F%AC%EB%A6%AC%EC%98%A4%20%EB%B0%94%EB%A1%9C%EA%B0%80%EA%B8%B0-green?style=for-the-badge" alt="포트폴리오 바로가기"/>
-  </a>
-</div>
-
 <br><br>
 
 </div>
