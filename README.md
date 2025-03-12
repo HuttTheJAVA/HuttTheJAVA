@@ -2,19 +2,6 @@
   👋 Hi, Nice to meet you.
 </h1><br>
 
-<br><br>
-
-</div>
-
-<div align="center" style="display: flex; justify-content: center; gap: 20px;">
-  <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=HuttTheJAVA&show_icons=true&theme=dark" style="height:150px;">
-  
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HuttTheJAVA&layout=compact" alt="Top Langs" style="height:150px;">
-</div>
-
-<br></br>
 
 <h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
 
@@ -50,16 +37,6 @@
 </div>
 
 <br></br>
-
-<h2 align="center">
-  Thanks for visiting my profile.
-</h2>
-
-<div align="center">
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FHuttTheJAVA&count_bg=%236AC83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false" alt="Hits">
-  </a>
-</div>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=65&section=footer"/>
