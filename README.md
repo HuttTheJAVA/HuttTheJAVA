@@ -1,8 +1,3 @@
-<h1 align="center">
-  👋 Hi, Nice to meet you.
-</h1><br>
-
-
 <h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
 
 <div align="center" style="width:100%"> 
