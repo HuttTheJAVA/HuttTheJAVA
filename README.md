@@ -4,15 +4,12 @@
   <table>
     <tr>
       <td valign="center" width="100px"><b>Backend<b></td>
-      <td valign="center" width="100px"><b>Database<b></td>
       <td valign="center" width="100px"><b>Dev<b></td>
     </tr>  
     <tr>
       <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
         <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-      </td>
-      <td valign="center" align="center" width="300px">
         <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
         <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white"/>
       </td>
