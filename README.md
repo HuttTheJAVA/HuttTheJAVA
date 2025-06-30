@@ -1,4 +1,16 @@
+<h3 align="center"><img src="code.gif" height="20"/> Resume & Portfolio </h3>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1VQ3pdQzPr4pwa5btLlj6GJ0ClD3vdeR8/view?usp=sharing" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/이력서%20보러가기-007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.canva.com/design/DAGp7mVU4Hs/3xqxEJcKXVI7RBpBOXkfXQ/view?utm_content=DAGp7mVU4Hs&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h87c65e56a5" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/포트폴리오%20보러가기-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  </a>
+</p>
+<br></br>
 <h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
+
 
 <div align="center" style="width:100%"> 
   <table>
