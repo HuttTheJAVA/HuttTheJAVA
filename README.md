@@ -1,6 +1,6 @@
 <h3 align="center"><img src="code.gif" height="20"/> Resume & Portfolio </h3>
 <p align="center">
-  <a href="https://drive.google.com/file/d/1VQ3pdQzPr4pwa5btLlj6GJ0ClD3vdeR8/view?usp=sharing" target="_blank" style="text-decoration: none;">
+  <a href="https://drive.google.com/file/d/1p2aicTt0Ski2ZjXF5sD_HvakS6IOnQlr/view?usp=sharing" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/이력서%20보러가기-007ACC?style=for-the-badge&logo=readthedocs&logoColor=white"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
