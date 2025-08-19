@@ -1,3 +1,4 @@
+<!--
 <h3 align="center"><img src="code.gif" height="20"/> Resume & Portfolio </h3>
 <p align="center">
   <a href="https://drive.google.com/file/d/1p2aicTt0Ski2ZjXF5sD_HvakS6IOnQlr/view?usp=sharing" target="_blank" style="text-decoration: none;">
@@ -8,7 +9,7 @@
     <img src="https://img.shields.io/badge/포트폴리오%20보러가기-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   </a>
 </p>
-<br></br>
+-->
 <h3 align="center"><img src="code.gif" height="20"/> Tech & Tools</h3>
 
 
